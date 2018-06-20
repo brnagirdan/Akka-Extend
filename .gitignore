@@ -1,0 +1,10 @@
+*.iml
+.idea
+
+#folders#
+/target
+
+# Packaged files #
+*.jar
+*.war
+*.ear
